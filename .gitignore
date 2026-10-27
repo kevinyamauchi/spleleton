@@ -112,3 +112,8 @@ ENV/
 
 # uv
 uv.lock
+
+# benchmark output (plans/benchmark_plan.md)
+/bench/
+/bench_proto/
+/bench_quick/
